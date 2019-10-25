@@ -11,7 +11,7 @@
 
 ## 会場
 スマートシティＡｉＣＴ
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.659835160914!2d139.92811191524453!3d37.4923528861309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff554a205678837%3A0xb044f563bcb7206f!2z44K544Oe44O844OI44K344OG44Kj77yh772J77yj77y0!5e0!3m2!1sja!2sjp!4v1571983269488!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d12661.323172984734!2d139.92122353459382!3d37.50011555052219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x5ff5534dc30fef17%3A0xac9765617b30fd16!2z5Lya5rSl6Iul5p2-6aeF44CB44CSOTY1LTAwNDEg56aP5bO255yM5Lya5rSl6Iul5p2-5biC6aeF5YmN55S677yR4oiS77yR!3m2!1d37.507865699999996!2d139.9303261!4m5!1s0x5ff554a205678837%3A0xb044f563bcb7206f!2z56aP5bO255yM5Lya5rSl6Iul5p2-5biC5p2x5qCE55S677yRIOOCueODnuODvOODiOOCt-ODhuOCo--8oe-9ie-8o--8tA!3m2!1d37.492332!2d139.9305649!5e0!3m2!1sja!2sjp!4v1571984159232!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ## イベント概要
 会津大学公認サークル「Zli」による公開LT会です。
