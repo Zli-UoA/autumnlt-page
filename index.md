@@ -11,6 +11,7 @@
 
 ## 会場
 スマートシティＡｉＣＴ
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.659835160914!2d139.92811191524453!3d37.4923528861309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff554a205678837%3A0xb044f563bcb7206f!2z44K544Oe44O844OI44K344OG44Kj77yh772J77yj77y0!5e0!3m2!1sja!2sjp!4v1571983269488!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ## イベント概要
 会津大学公認サークル「Zli」による公開LT会です。
