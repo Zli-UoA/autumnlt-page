@@ -39,4 +39,7 @@
 
 
 ## 参加企業
-coming soon...
+[KLab株式会社](https://www.klab.com/jp/)
+[Retty株式会社](https://corp.retty.me/)
+[株式会社アカツキ](https://aktsk.jp/)
+[合同会社 DMM.com](https://dmm-corp.com/)
