@@ -50,10 +50,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://i.imgur.com/Fu1oEN4.jpg" width="160px"></tb>
-      <td align="center"><img src="https://i.imgur.com/0dG7Mog.png" width="160px"></tb>
-      <td align="center"><img src="https://i.imgur.com/739qi44.png" width="160px"></tb>
-      <td align="center"><img src="https://i.imgur.com/ujAoQUq.png" width="160px"></tb>
+      <td align="center"> <img src="https://i.imgur.com/Fu1oEN4.jpg" width="160px"> </tb>
+      <td align="center"> <img src="https://i.imgur.com/0dG7Mog.png" width="160px"> </tb>
+      <td align="center"> <img src="https://i.imgur.com/739qi44.png" width="160px"> </tb>
+      <td align="center"> <img src="https://i.imgur.com/ujAoQUq.png" width="160px"> </tb>
     </tr>
   </tbody>
 </table>
