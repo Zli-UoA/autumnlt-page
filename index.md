@@ -38,6 +38,39 @@
 |18:30 ~ 20:00 | 懇親会 |
 
 ## 参加企業
-|[KLab株式会社](https://www.klab.com/jp/)|[Retty株式会社](https://corp.retty.me/)|[株式会社アカツキ](https://aktsk.jp/)|[合同会社 DMM.com](https://dmm-corp.com/)|
-|:--:|:--:|:--:|:--:|
-|<img src="https://i.imgur.com/Fu1oEN4.jpg" width="320px" />|<img src="https://i.imgur.com/0dG7Mog.png" width="320px" />|<img src="https://i.imgur.com/739qi44.png" width="320px" />|<img src="https://i.imgur.com/ujAoQUq.png" width="320px" />|
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">
+        <a href="https://www.klab.com/jp/">KLab株式会社</a>
+      </th>
+      <th align="center">
+        <a href="https://corp.retty.me/">Retty株式会社</a>
+      </th>
+      <th align="center">
+        <a href="https://aktsk.jp/">株式会社アカツキ</a>
+      </th>
+      <th align="center">
+        <a href="https://dmm-corp.com/">合同会社 DMM.com</a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://i.imgur.com/Fu1oEN4.jpg" width="160px" />
+      </tb>
+      <td align="center">
+        <img src="https://i.imgur.com/0dG7Mog.png" width="160px" />
+      </tb>
+      <td align="center">
+        <img src="https://i.imgur.com/739qi44.png" width="160px" />
+      </tb>
+      <td align="center">
+        <img src="https://i.imgur.com/ujAoQUq.png" width="160px" />
+      </tb>
+    </tr>
+  </tbody>
+</table>
+
